@@ -1,0 +1,29 @@
+#a{
+    text-align: center;
+    background-size: cover;
+    padding:5px 2px ;
+    background-repeat: no-repeat;
+	background-image: url(ab.jpg);
+    background-size: cover;
+    padding: 10%;
+	color: blue;
+}
+h1 {
+    color: red;
+    text-align: center;
+    font: italic 400% fantasy;
+}
+a{
+    font-size: 25px;
+    text-decoration: none;
+	color: orange;
+}
+body{
+	    text-align: center;
+ 	
+    background-color: rgb(11,100,120);
+}
+p{
+	font-size: 30px;
+	color :black;
+ }
